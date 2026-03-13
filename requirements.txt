@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+google-generativeai
+groq
+faiss-cpu
+sentence-transformers
+duckduckgo-search
+pypdf
+python-dotenv
