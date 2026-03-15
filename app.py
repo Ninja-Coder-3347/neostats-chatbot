@@ -13,6 +13,7 @@ mode = st.radio(
 )
 
 
+
 uploaded_file = st.file_uploader(
     "Upload document",
     type=["pdf"]
