@@ -8,7 +8,7 @@ def load_embedding_model():
             model_name="sentence-transformers/all-MiniLM-L6-v2"
         )
 
-
+        return model
 
     except Exception as e:
         print(e)
