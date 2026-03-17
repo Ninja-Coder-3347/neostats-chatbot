@@ -20,6 +20,7 @@ uploaded_file = st.file_uploader(
 )
 
 
+vectorstore = None
 
 
 if uploaded_file:
