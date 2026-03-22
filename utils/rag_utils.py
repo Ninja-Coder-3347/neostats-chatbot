@@ -27,5 +27,3 @@ def create_vector_store(file_path):
 
         return vector_store
 
-    except Exception as e:
-        print(e)
