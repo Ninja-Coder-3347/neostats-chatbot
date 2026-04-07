@@ -1,4 +1,4 @@
-from langchain.embeddings import HuggingFaceEmbeddings
+
 
 def load_embedding_model():
 
