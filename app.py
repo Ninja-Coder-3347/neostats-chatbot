@@ -4,7 +4,7 @@ from models.llm import load_openai
 from utils.rag_utils import create_vector_store
 from utils.web_search import web_search
 
-st.title("NeoStats Chatbot")
+
 
 
 mode = st.radio(
