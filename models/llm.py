@@ -1,4 +1,5 @@
 
+from langchain.chat_models import ChatOpenAI
 from langchain.chat_models import ChatGoogleGenerativeAI  # if using Google
 from langchain_groq import ChatGroq
 from config.config import OPENAI_API_KEY, GEMINI_API_KEY, GROQ_API_KEY
