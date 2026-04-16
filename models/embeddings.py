@@ -1,4 +1,3 @@
-from langchain.embeddings import HuggingFaceEmbeddings
 
 def load_embedding_model():
 
@@ -12,3 +11,6 @@ def load_embedding_model():
 
     except Exception as e:
         print(e)
+
+
+
