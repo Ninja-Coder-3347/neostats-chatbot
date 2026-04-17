@@ -1,7 +1,7 @@
 from langchain.document_loaders import PyPDFLoader
 from langchain.vectorstores import FAISS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from models.embeddings import load_embedding_model
+
 
 
 def create_vector_store(file_path):
