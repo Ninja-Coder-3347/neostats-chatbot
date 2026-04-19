@@ -1,3 +1,4 @@
+from duckduckgo_search import DDGS
 
 
 def web_search(query):
