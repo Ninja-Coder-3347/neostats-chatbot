@@ -1,3 +1,4 @@
+from langchain.chat_models import ChatOpenAI
 
 from langchain.chat_models import ChatGoogleGenerativeAI  # if using Google
 from langchain_groq import ChatGroq
